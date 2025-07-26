@@ -1,5 +1,33 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# 🎵 Next.js Music Player
+
+A sleek and modern music player built using **Next.js** with **App Router** and **Parallel Routing**, styled with **Tailwind CSS**. This project demonstrates advanced routing capabilities in Next.js along with a fully responsive UI and smooth music playback.
+
+## 🚀 Features
+
+- ✅ Built with Next.js App Router
+- ✅ Parallel Routing for dynamic layouts and smooth UI transitions
+- ✅ Modern UI with Tailwind CSS
+- ✅ Responsive design (mobile & desktop support)
+- ✅ Component-based architecture
+
+## 🛠️ Technologies Used
+
+- [Next.js 14+ (App Router)](https://nextjs.org/docs/app)
+- [React 18](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [HTML5 Audio API](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement)
+
+## 🧭 Routing Concept
+
+This app uses **parallel routing** to keep the audio player UI persistent across navigation.  
+For example:
+
+/music?player=now-playing&content=library
+
+
+
 ## Getting Started
 
 First, run the development server:
